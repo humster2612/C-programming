@@ -1,0 +1,14 @@
+D:\c#\Lab3zad2\bin\Debug\net7.0\Lab3zad2.exe
+D:\c#\Lab3zad2\bin\Debug\net7.0\Lab3zad2.deps.json
+D:\c#\Lab3zad2\bin\Debug\net7.0\Lab3zad2.runtimeconfig.json
+D:\c#\Lab3zad2\bin\Debug\net7.0\Lab3zad2.dll
+D:\c#\Lab3zad2\bin\Debug\net7.0\Lab3zad2.pdb
+D:\c#\Lab3zad2\obj\Debug\net7.0\Lab3zad2.GeneratedMSBuildEditorConfig.editorconfig
+D:\c#\Lab3zad2\obj\Debug\net7.0\Lab3zad2.AssemblyInfoInputs.cache
+D:\c#\Lab3zad2\obj\Debug\net7.0\Lab3zad2.AssemblyInfo.cs
+D:\c#\Lab3zad2\obj\Debug\net7.0\Lab3zad2.csproj.CoreCompileInputs.cache
+D:\c#\Lab3zad2\obj\Debug\net7.0\Lab3zad2.dll
+D:\c#\Lab3zad2\obj\Debug\net7.0\refint\Lab3zad2.dll
+D:\c#\Lab3zad2\obj\Debug\net7.0\Lab3zad2.pdb
+D:\c#\Lab3zad2\obj\Debug\net7.0\Lab3zad2.genruntimeconfig.cache
+D:\c#\Lab3zad2\obj\Debug\net7.0\ref\Lab3zad2.dll
