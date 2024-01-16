@@ -1,0 +1,17 @@
+D:\c#\zad1lab6\bin\Debug\net7.0\zad1lab6.exe
+D:\c#\zad1lab6\bin\Debug\net7.0\zad1lab6.deps.json
+D:\c#\zad1lab6\bin\Debug\net7.0\zad1lab6.runtimeconfig.json
+D:\c#\zad1lab6\bin\Debug\net7.0\zad1lab6.dll
+D:\c#\zad1lab6\bin\Debug\net7.0\zad1lab6.pdb
+D:\c#\zad1lab6\obj\Debug\net7.0\zad1lab6.GeneratedMSBuildEditorConfig.editorconfig
+D:\c#\zad1lab6\obj\Debug\net7.0\zad1lab6.AssemblyInfoInputs.cache
+D:\c#\zad1lab6\obj\Debug\net7.0\zad1lab6.AssemblyInfo.cs
+D:\c#\zad1lab6\obj\Debug\net7.0\zad1lab6.csproj.CoreCompileInputs.cache
+D:\c#\zad1lab6\obj\Debug\net7.0\zad1lab6.dll
+D:\c#\zad1lab6\obj\Debug\net7.0\refint\zad1lab6.dll
+D:\c#\zad1lab6\obj\Debug\net7.0\zad1lab6.pdb
+D:\c#\zad1lab6\obj\Debug\net7.0\zad1lab6.genruntimeconfig.cache
+D:\c#\zad1lab6\obj\Debug\net7.0\ref\zad1lab6.dll
+D:\c#\zad1lab6\bin\Debug\net7.0\CsvHelper.dll
+D:\c#\zad1lab6\obj\Debug\net7.0\zad1lab6.csproj.AssemblyReference.cache
+D:\c#\zad1lab6\obj\Debug\net7.0\zad1lab6.csproj.CopyComplete
