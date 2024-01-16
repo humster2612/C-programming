@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "zJPecm7yJzCu7t7fqwYsMFHXPvUjJ66wPjC130UqvYDCT7Bs9yia7hR7EiRA+qdfU+bUxbKuk0Lde+gNIulnuA==",
+  "success": true,
+  "projectFilePath": "D:\\c#\\lab7zad2\\lab7zad2.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Lenovo\\.nuget\\packages\\csvhelper\\30.0.1\\csvhelper.30.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
