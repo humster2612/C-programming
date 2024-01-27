@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "0HWrK9zvLkLxPWWl/XyRoWVG5Lm8MOWF/6fRePVd9UenrbGJlHXZm5tjXVqcF54pUgV3A6uTw3gQLjOEqxs/4A==",
+  "dgSpecHash": "HEU2e2Uic+zcco9PWN+mwTX3x4J303XCwy+2AtuQOXAuzmJvS6rR6RS23bTMM40WiG8bEe5y5U4sxz6V74PSaQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Administrator\\Desktop\\projectOOP_3.0_Vika\\projectOOP_3.0\\projectOOP_3.0.csproj",
+  "projectFilePath": "D:\\Programming\\ProgrammingBasics\\ProjectsC#\\projectOOP_3.0_Vika\\projectOOP_3.0\\projectOOP_3.0.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Administrator\\.nuget\\packages\\microsoft.netcore.app\\2.1.0\\microsoft.netcore.app.2.1.0.nupkg.sha512",
     "C:\\Users\\Administrator\\.nuget\\packages\\microsoft.netcore.dotnetapphost\\2.1.0\\microsoft.netcore.dotnetapphost.2.1.0.nupkg.sha512",
